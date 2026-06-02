@@ -13,6 +13,20 @@
         "NewPack13"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "NewPack10",
+      "Branch": "main",
+      "PackageDescription": "1.0.0",
+      "PackageVersion": "1.0.0",
+      "PackageAuthor": "admin",
+      "PackageCreatedOn": "2026-06-02T09:24:26Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "NewPack10"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
