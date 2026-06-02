@@ -27,6 +27,20 @@
         "NewPack14"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "NewPack15",
+      "Branch": "newbranch2",
+      "PackageDescription": "vregerge",
+      "PackageVersion": "1.0.0",
+      "PackageAuthor": "admin",
+      "PackageCreatedOn": "2026-06-02T06:49:43Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "NewPack15"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
