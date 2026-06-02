@@ -27,6 +27,20 @@
         "NewPack10"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "AxiTestPack1",
+      "Branch": "main",
+      "PackageDescription": "1.0.0",
+      "PackageVersion": "1.0.0",
+      "PackageAuthor": "admin",
+      "PackageCreatedOn": "2026-06-02T09:46:20Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "AxiTestPack1"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
