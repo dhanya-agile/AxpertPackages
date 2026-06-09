@@ -85,10 +85,26 @@
         "free"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "AXI_PackageNew1",
+      "Branch": "axi",
+      "PackageDescription": "3.4.5 ",
+      "PackageVersion": "11.4",
+      "PackageAuthor": "UserAdmin",
+      "PackageCreatedOn": "2026-06-09T08:06:40Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "AXI",
+        "PackageNew1"
+      ],
+      "Category": "Enterprise"
     }
   ],
   "GitBranches": [
     "main",
-    "free"
+    "free",
+    "axi"
   ]
 }
