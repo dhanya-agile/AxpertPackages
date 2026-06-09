@@ -55,6 +55,24 @@
         "AxiTestPack2"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "PackageNew1_Axi",
+      "Branch": "main",
+      "PackageDescription": "3.4.5 ",
+      "PackageVersion": "11.4",
+      "PackageAuthor": "UserAdmin",
+      "PackageCreatedOn": "2026-06-09T07:17:18Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "PackageNew1",
+        "Axi"
+      ],
+      "Category": "Enterprise"
     }
+  ],
+  "GitBranches": [
+    "main"
   ]
 }
