@@ -100,11 +100,27 @@
         "PackageNew1"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "AXI_PackageNew1",
+      "Branch": "axpert",
+      "PackageDescription": "3.4.5 ",
+      "PackageVersion": "11.4",
+      "PackageAuthor": "UserAdmin",
+      "PackageCreatedOn": "2026-06-09T10:15:31Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "AXI",
+        "PackageNew1"
+      ],
+      "Category": "Enterprise"
     }
   ],
   "GitBranches": [
     "main",
     "free",
-    "axi"
+    "axi",
+    "axpert"
   ]
 }
