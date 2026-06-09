@@ -70,9 +70,25 @@
         "Axi"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "PackageNew1_free",
+      "Branch": "free",
+      "PackageDescription": "3.4.5 ",
+      "PackageVersion": "11.4",
+      "PackageAuthor": "UserAdmin",
+      "PackageCreatedOn": "2026-06-09T07:18:32Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "PackageNew1",
+        "free"
+      ],
+      "Category": "Enterprise"
     }
   ],
   "GitBranches": [
-    "main"
+    "main",
+    "free"
   ]
 }
