@@ -1,0 +1,18 @@
+{
+  "ManagerType": "Product",
+  "Products": [
+    {
+      "ProductName": "PageTest21",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-09-28T11:33:26Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "PageTest21"
+      ],
+      "Category": "Enterprise"
+    }
+  ]
+}
