@@ -117,6 +117,19 @@
         "PageTest38"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "PageTest39",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-09-29T12:30:49Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "PageTest39"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
