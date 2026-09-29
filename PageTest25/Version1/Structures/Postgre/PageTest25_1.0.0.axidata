@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Data fetched successfully",
+  "hasData": true,
+  "resultpayload": {
+    "axputpayloads": {
+      "ARMSessionId": "ARM-pgbase114-d170003c-241d-4f76-9363-b360662ed46b",
+      "trace": true,
+      "validateonly": false,
+      "axclient_dateformat": "yyyy-MM-dd",
+      "millisecsintimestamp": true,
+      "data": [
+        {
+          "transid": "a__ug",
+          "action": "create",
+          "submitdata": {
+            "dc1": {
+              "row1": {
+                "users_group_name": "exporttester",
+                "usergroupflg": "12",
+                "users_group_description": "testing export",
+                "isactive": "T",
+                "userexists": "Dependent data exists, cannot be deleted"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
