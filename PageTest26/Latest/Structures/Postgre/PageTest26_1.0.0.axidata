@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "message": "Data fetched successfully",
+  "hasData": true,
+  "resultpayload": {
+    "axputpayloads": {
+      "ARMSessionId": "ARM-pgbase114-ecb10184-a6bd-4210-a118-c3d54b9be3a0",
+      "trace": true,
+      "validateonly": false,
+      "axclient_dateformat": "yyyy-MM-dd",
+      "millisecsintimestamp": true,
+      "data": [
+        {
+          "transid": "astcp",
+          "action": "create",
+          "submitdata": {
+            "dc1": {
+              "row1": {
+                "configprops": "Axi Command Line Enable",
+                "propcode": "General",
+                "description": "This is introduced to set the flag to enable AxiCommand line in the Main page",
+                "dupchk": "configtypeAxi Command Line Enable",
+                "ptype": "All",
+                "caction": "F",
+                "chyperlink": "F",
+                "cfields": "F",
+                "alltstructs": "F",
+                "alliviews": "F",
+                "alluserroles": "F"
+              }
+            },
+            "dc2": {
+              "row1": {
+                "configvalues": "true"
+              }
+            }
+          }
+        },
+        {
+          "transid": "axstc",
+          "action": "create",
+          "submitdata": {
+            "dc1": {
+              "row1": {
+                "asprops": "Axi Command Line Enable",
+                "descp": "This is introduced to set the flag to enable AxiCommand line in the Main page",
+                "propsid": "1920660000001",
+                "setype": "All",
+                "props": "General",
+                "propsvaluecount": "1",
+                "propvalue1": "true",
+                "propsval": "true",
+                "aaction": "F",
+                "ahlink": "F",
+                "cfields": "F",
+                "alltrstruct": "F",
+                "alliviews": "F",
+                "alluserroles": "F",
+                "userroles": "ALL",
+                "dupchk": "Axi Command Line EnableGeneralALL"
+              }
+            }
+          }
+        },
+        {
+          "transid": "axstc",
+          "action": "create",
+          "submitdata": {
+            "dc1": {
+              "row1": {
+                "asprops": "Axi Command Line Enable",
+                "descp": "This is introduced to set the flag to enable AxiCommand line in the Main page",
+                "propsid": "1920660000001",
+                "setype": "All",
+                "props": "General",
+                "propsvaluecount": "1",
+                "propvalue1": "true",
+                "propsval": "true",
+                "aaction": "F",
+                "ahlink": "F",
+                "cfields": "F",
+                "alltrstruct": "F",
+                "alliviews": "F",
+                "alluserroles": "F",
+                "structcaption": "Export Test Form(expf)",
+                "structcaptiodmy": "Export Test Form(expf)",
+                "structname": "expf",
+                "stype": "Tstruct",
+                "userroles": "ALL",
+                "dupchk": "Axi Command Line EnableexpfGeneralALL"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
