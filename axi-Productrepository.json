@@ -183,6 +183,19 @@
         "TestPack3"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Exp1",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-09-30T08:09:56Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Exp1"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
