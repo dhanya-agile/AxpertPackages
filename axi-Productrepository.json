@@ -144,6 +144,19 @@
         "PageCT"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "TestPack1",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-09-30T07:48:26Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "TestPack1"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
