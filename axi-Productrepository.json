@@ -170,6 +170,19 @@
         "TestPack2"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "TestPack3",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-09-30T08:03:46Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "TestPack3"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
