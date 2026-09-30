@@ -196,6 +196,19 @@
         "Exp1"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Exp2",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-09-30T08:11:44Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Exp2"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
