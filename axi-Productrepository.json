@@ -277,6 +277,19 @@
         "SmartView"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "TestD2",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-01T10:21:37Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "TestD2"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
