@@ -209,6 +209,19 @@
         "Exp2"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "NewTest2",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-01T07:59:45Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "NewTest2"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
