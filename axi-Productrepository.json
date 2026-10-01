@@ -235,6 +235,20 @@
         "NewTest3"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Axi_PageCT2",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-01T09:04:10Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Axi",
+        "PageCT2"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
