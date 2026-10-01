@@ -249,6 +249,20 @@
         "PageCT2"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Axi_Inbox",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-01T09:04:46Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Axi",
+        "Inbox"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
