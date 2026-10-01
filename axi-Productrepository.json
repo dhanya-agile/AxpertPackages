@@ -263,6 +263,20 @@
         "Inbox"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Axi_SmartView",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-01T09:05:20Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Axi",
+        "SmartView"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
