@@ -290,6 +290,19 @@
         "TestD2"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "TestF1",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-01T10:22:15Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "TestF1"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
