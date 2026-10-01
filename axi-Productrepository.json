@@ -222,6 +222,19 @@
         "NewTest2"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "NewTest3",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-01T08:13:14Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "NewTest3"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
