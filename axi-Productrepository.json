@@ -303,6 +303,19 @@
         "TestF1"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Test25",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-05T06:30:01Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Test25"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
