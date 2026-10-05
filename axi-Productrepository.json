@@ -329,6 +329,19 @@
         "Test26"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Test27",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-05T06:38:56Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Test27"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
