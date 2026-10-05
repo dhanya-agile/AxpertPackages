@@ -368,6 +368,19 @@
         "Test29"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Test35",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-05T09:38:24Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Test35"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
