@@ -1,0 +1,68 @@
+{
+  "success": true,
+  "message": "Data fetched successfully",
+  "hasData": true,
+  "resultpayload": {
+    "axputpayloads": {
+      "ARMSessionId": "ARM-pgbase114-33d382e1-b850-4daa-bcab-be766c5b8421",
+      "trace": true,
+      "validateonly": false,
+      "axclient_dateformat": "yyyy-MM-dd",
+      "millisecsintimestamp": true,
+      "data": [
+        {
+          "transid": "b_sql",
+          "action": "create",
+          "submitdata": {
+            "dc1": {
+              "row1": {
+                "sqlname": "exporttest",
+                "adsdesc": "Testing Export",
+                "sqlsrc": "Internal",
+                "sqlsrccnd": "1",
+                "sqltext": "select a.custname from expf1 a",
+                "accessstring": "ALL",
+                "sqlquerycols": "custname",
+                "pagination": "T",
+                "cachedata": "F",
+                "cacheinterval": "6 Hr",
+                "recid": "0",
+                "applydimensions": "F",
+                "metadatajson": "{\"appname\":\"\",\"sqlquery\":\"select a.custname from expf1 a\"}"
+              }
+            },
+            "dc2": {}
+          }
+        },
+        {
+          "transid": "a__cd",
+          "action": "create",
+          "submitdata": {
+            "dc1": {
+              "row1": {
+                "cardtype": "chart",
+                "charttype": "bar",
+                "cardname": "exportcardtest",
+                "card_datasource": "exporttest",
+                "widthui": "10%",
+                "autorefresh": "0",
+                "cachedata": "false",
+                "orderno": "99",
+                "accessstringui": "default",
+                "heightui": "0",
+                "height": "0px",
+                "width": "col-md-1",
+                "accessstring": ",default,",
+                "chartjson": "{\"attributes\":{\"cck\":\"\",\"shwLgnd\":,\"xAxisL\":\"\",\"yAxisL\":\"\",\"gradClrChart\":,\"shwChartVal\":,\"threeD\":\"remove\",\"enableSlick\":,\"numbSym\":}}",
+                "con_name": "pgbase114",
+                "axpfilepath_imgcard": "\\\\127.0.0.1\\AxpFilepath\\pgbase114\\ImageCard\\*",
+                "inhomepage": "F",
+                "indashboard": "T"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
