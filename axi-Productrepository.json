@@ -446,6 +446,19 @@
         "DummyPack2"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "DummyPack3",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-06T08:58:29Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "DummyPack3"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
