@@ -485,6 +485,19 @@
         "package19"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "DummyPack5",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-06T11:23:44Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "DummyPack5"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
