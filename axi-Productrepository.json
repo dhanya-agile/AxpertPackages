@@ -433,6 +433,19 @@
         "CardExport"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "DummyPack2",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-06T08:54:51Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "DummyPack2"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
