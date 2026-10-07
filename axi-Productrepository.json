@@ -537,6 +537,19 @@
         "test"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "AxpertProductExpTEST",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-07T11:46:31Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "AxpertProductExpTEST"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
