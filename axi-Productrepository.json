@@ -524,6 +524,19 @@
         "DummyPack7"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "test",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-07T05:44:25Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "test"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
