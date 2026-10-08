@@ -550,6 +550,19 @@
         "AxpertProductExpTEST"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "productnewtest",
+      "ProductDescription": "",
+      "ProductVersion": "1.0",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-10-08T12:15:12Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "productnewtest"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
